@@ -45,7 +45,8 @@
 	"scripts": {
 		"start": "gulp build",
 		"dev": "gulp build && gulp dev",
-		"publish": "vsce publish",
+		"build": "cd './build/ptkdev.dark-blood-theme' && vsce package",
+		"publish": "cd './build/ptkdev.dark-blood-theme' && vsce publish",
 		"lint": "eslint ./ --cache --ignore-pattern .gitignore",
 		"lint-fix": "eslint ./ --cache --ignore-pattern .gitignore --fix",
 		"clean": "rm -rf node_modules build package-lock.json && npm install",
@@ -65,12 +66,13 @@
 		"vscode-themes",
 		"theme",
 		"themes",
-		"base16-dark-",
+		"base16-dark",
 		"dark-theme",
 		"dark-blood",
 		"jetblack"
 	],
 	"devDependencies": {
+		"vsce": "latest",
 		"eslint": "latest",
 		"eslint-config-standard": "latest",
 		"eslint-plugin-import": "latest",
@@ -85,6 +87,7 @@
 		"gulp-jsonminify": "latest",
 		"gulp-terser": "latest",
 		"gulp-rename": "latest",
+		"gulp-replace": "latest",
 		"gulp-nunjucks": "latest",
 		"gulp-data": "latest",
 		"gulp-run": "latest",

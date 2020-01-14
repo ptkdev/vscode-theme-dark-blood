@@ -11,6 +11,7 @@
 const gulp = require("gulp");
 const gulp_concat = require("gulp-concat");
 const gulp_minifyjson = require("gulp-jsonminify");
+const gulp_replace = require("gulp-replace");
 const gulp_rename = require("gulp-rename");
 
 gulp.task("build-js", function() {
@@ -34,6 +35,7 @@ gulp.task("build-manifest", function() {
 	let files = [`./package.json`, `./README.md`];
 
 	return gulp.src(files)
+		.pipe(gulp_replace("@ptkdev/vscode-theme-dark-blood", "dark-blood-theme"))
 		.pipe(gulp.dest(`./build/ptkdev.dark-blood-theme/`));
 });
 

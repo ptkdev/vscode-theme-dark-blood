@@ -45,8 +45,7 @@
 	"scripts": {
 		"start": "gulp build",
 		"dev": "gulp build && gulp dev",
-		"build": "cd './build/ptkdev.dark-blood-theme' && vsce package",
-		"publish": "cd './build/ptkdev.dark-blood-theme' && vsce publish",
+		"package": "cd './build/ptkdev.dark-blood-theme' && vsce package",
 		"lint": "eslint ./ --cache --ignore-pattern .gitignore",
 		"lint-fix": "eslint ./ --cache --ignore-pattern .gitignore --fix",
 		"clean": "rm -rf node_modules build package-lock.json && npm install",

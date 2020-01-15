@@ -1,4 +1,4 @@
-[![Dark Blood Theme for VSCode](https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/dark-blood-theme.png)](https://marketplace.visualstudio.com/publishers/ptkdev)
+[![Dark Blood Theme for VSCode](https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/dark-blood-theme.png)](https://marketplace.visualstudio.com/items?itemName=ptkdev.dark-blood-theme)
 
 # 🎨 Dark Blood Theme for VSCode
 
@@ -43,7 +43,7 @@
 [![Dark Blood Theme for VSCode - Screen4](https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/screen4.png)](https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/screen4.png)
 
 ## 🚀 Installation
-1. Install extension from [vscode marketplace](https://marketplace.visualstudio.com/publishers/ptkdev).
+1. Install extension from [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=ptkdev.dark-blood-theme).
 2. Open VSCode, go to extensions, click on "Dark Blood Theme"
 3. Click to `Set Color Theme` and confirm theme.
 

@@ -47,6 +47,14 @@
 2. Open VSCode, go to extensions, click on "Dark Blood Theme"
 3. Click to `Set Color Theme` and confirm theme.
 
+### 🧩 Extra
+If you want exactly what the screenshots look like (icons, hexcode colors preview, etc), install these extensions:
+- `ext install ptkdev.dark-blood-theme`
+- `ext install bierner.color-info`
+- `ext install pkief.material-icon-theme`
+
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
+
 ## 🔨 Developer Mode
 1. Download [stable](https://github.com/ptkdev/vscode-theme-dark-blood/archive/master.zip).
 2. Run `npm install`

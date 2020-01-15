@@ -2,7 +2,7 @@
 
 # 🎨 Dark Blood Theme for VSCode
 
-[![](https://img.shields.io/badge/version-v1.0.0-lightgrey.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/releases) [![](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/master/LICENSE.md) [![](https://img.shields.io/badge/ES-9-F7DF1E.svg)](https://wikipedia.org/wiki/ECMAScript) [![](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood/badge.svg)](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood)
+[![](https://img.shields.io/badge/version-v1.0.1-lightgrey.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/releases) [![](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/master/LICENSE.md) [![](https://img.shields.io/badge/ES-9-F7DF1E.svg)](https://wikipedia.org/wiki/ECMAScript) [![](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood/badge.svg)](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood)
 
 > VS Code theme for the night work. Inspired by base16-dark.
 
@@ -49,8 +49,9 @@
 
 ### 🧩 Extra
 If you want exactly what the screenshots look like (icons, hexcode colors preview, etc), install these extensions:
+- Set `Fira Code` Font (13.5px size and 500 weight), see [instructions](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions).
 - `ext install ptkdev.dark-blood-theme`
-- `ext install bierner.color-info`
+- `ext install naumovs.color-highlight`
 - `ext install pkief.material-icon-theme`
 
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.

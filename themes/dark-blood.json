@@ -521,6 +521,8 @@
         {
             "name":"CSS - Value colors (unit)",
             "scope":[
+				"keyword.other.unit.vh.css",
+				"keyword.other.unit.vw.css",
                 "keyword.other.unit.px.css",
                 "keyword.other.unit.rem.css",
                 "keyword.other.unit.em.css",

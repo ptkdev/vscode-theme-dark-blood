@@ -22,9 +22,9 @@
 - ❤️ [Contributing](#-contributing)
 - 🐛 [Known Bugs](https://github.com/ptkdev/vscode-theme-dark-blood/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 - 🍻 Community:
-  - 🐔 [Discord](http://discord.ptkdev.io)
-  - 🐓 [Slack](http://slack.ptkdev.io)
-  - 🐤 [Twitter](http://twitter.ptkdev.io)
+  - <img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/social_discord.png" width="15px"> [Discord](http://discord.ptkdev.io)
+  - <img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/social_slack.png" width="15px"> [Slack](http://slack.ptkdev.io)
+  - <img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/social_twitter.png" width="15px"> [Twitter](http://twitter.ptkdev.io)
 
 ## 💡 Features
 * [✔️] Easy to use
@@ -108,6 +108,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 [![](https://img.shields.io/badge/api-twitter%20bot-21B7F4.svg)](https://github.com/social-manager-tools/socialmanagertools-twbot)
 [![](https://img.shields.io/badge/api-facebook%20bot-3b5998.svg)](https://github.com/social-manager-tools/socialmanagertools-fbbot)
 [![](https://img.shields.io/badge/telegram%20bot-feed%20rss%20for%20wordpress%20&amp;%20medium-00AB6C.svg)](https://github.com/social-manager-tools/socialmanagertools-tgbot)
+
+## 🐍 Sorry for snake_case
+I love snake_case syntax sorry for this 😭 don't hate me.
 
 ## 💫 License
 * Code and Contributions have **MIT License**

@@ -22,9 +22,9 @@
 - ❤️ [Contributing](#-contributing)
 - 🐛 [Known Bugs](https://github.com/ptkdev/vscode-theme-dark-blood/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 - 🍻 Community:
-  - <img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/social_discord.png" width="15px"> [Discord](http://discord.ptkdev.io)
-  - <img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/social_slack.png" width="15px"> [Slack](http://slack.ptkdev.io)
-  - <img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/social_twitter.png" width="15px"> [Twitter](http://twitter.ptkdev.io)
+  - [<img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/social_discord.png" width="18px"> Discord](http://discord.ptkdev.io)
+  - [<img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/social_slack.png" width="18px"> Slack](http://slack.ptkdev.io)
+  - [<img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/social_twitter.png" width="18px"> Twitter](http://twitter.ptkdev.io)
 
 ## 💡 Features
 * [✔️] Easy to use

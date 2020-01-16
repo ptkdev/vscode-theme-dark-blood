@@ -527,7 +527,16 @@
                 "keyword.other.unit.rem.css",
                 "keyword.other.unit.em.css",
                 "keyword.other.unit.pt.css",
-                "keyword.other.unit.s.css",
+				"keyword.other.unit.s.css",
+				"keyword.other.unit.deg.css",
+				"keyword.other.unit.grad.css",
+				"keyword.other.unit.rad.css",
+				"keyword.other.unit.turn.css",
+				"keyword.other.unit.mm.css",
+				"keyword.other.unit.cm.css",
+				"keyword.other.unit.in.css",
+				"keyword.other.unit.vmin.css",
+				"keyword.other.unit.vmax.css",
                 "keyword.other.unit.percentage.css"
             ],
             "settings":{

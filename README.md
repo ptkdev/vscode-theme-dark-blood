@@ -52,6 +52,7 @@ If you want exactly what the screenshots look like (icons, hexcode colors previe
 - Set `Fira Code` Font (13.5px size and 500 weight), see [instructions](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions).
 - `ext install naumovs.color-highlight`
 - `ext install pkief.material-icon-theme`
+- `ext install ronnidc.nunjucks`
 
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 

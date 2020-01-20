@@ -96,14 +96,14 @@
         },
         {
             "name":"this",
-            "scope": "variable.language.this.js",
+            "scope":"variable.language.this.js",
             "settings":{
                 "foreground":"#ac4154"
             }
         },
         {
             "name":"new class name",
-            "scope": "new.expr.js entity.name.type.module.js",
+            "scope":"new.expr.js entity.name.type.module.js",
             "settings":{
                 "foreground":"#f7ca88"
             }
@@ -122,8 +122,8 @@
             "settings":{
                 "foreground":"#EEFFFF"
             }
-		},
-		{
+        },
+        {
             "name":"Functions",
             "scope":[
                 "entity.name.function",
@@ -167,21 +167,26 @@
             "settings":{
                 "foreground":"#ba8baf"
             }
-		},
-		{
+        },
+        {
             "name":"module export",
             "scope":"support.type.object.module.js",
             "settings":{
                 "foreground":"#ba8baf"
             }
-		},
-		{
+        },
+        {
             "name":"Literal template brace ${xxx}",
-            "scope": ["punctuation.definition.template-expression.begin.js","punctuation.definition.template-expression.end.js"],
+            "scope":[
+                "punctuation.definition.template-expression.begin.js",
+                "punctuation.definition.template-expression.end.js",
+                "punctuation.definition.string.template.begin.js",
+                "punctuation.definition.string.template.end.js"
+            ],
             "settings":{
                 "foreground":"#ba8baf"
             }
-		},
+        },
         {
             "name":"Support",
             "scope":"support.function",
@@ -216,14 +221,14 @@
         },
         {
             "name":"Typeof",
-            "scope": "keyword.operator.expression.typeof.js",
+            "scope":"keyword.operator.expression.typeof.js",
             "settings":{
                 "foreground":"#dc9656"
             }
         },
         {
             "name":"NEW Operator",
-            "scope": "keyword.operator.new.js",
+            "scope":"keyword.operator.new.js",
             "settings":{
                 "foreground":"#dc9656"
             }
@@ -287,7 +292,6 @@
                 "entity.name.section"
             ],
             "settings":{
-                "fontStyle":"",
                 "foreground":"#7cafc2"
             }
         },
@@ -561,22 +565,22 @@
         {
             "name":"CSS - Value colors (unit)",
             "scope":[
-				"keyword.other.unit.vh.css",
-				"keyword.other.unit.vw.css",
+                "keyword.other.unit.vh.css",
+                "keyword.other.unit.vw.css",
                 "keyword.other.unit.px.css",
                 "keyword.other.unit.rem.css",
                 "keyword.other.unit.em.css",
                 "keyword.other.unit.pt.css",
-				"keyword.other.unit.s.css",
-				"keyword.other.unit.deg.css",
-				"keyword.other.unit.grad.css",
-				"keyword.other.unit.rad.css",
-				"keyword.other.unit.turn.css",
-				"keyword.other.unit.mm.css",
-				"keyword.other.unit.cm.css",
-				"keyword.other.unit.in.css",
-				"keyword.other.unit.vmin.css",
-				"keyword.other.unit.vmax.css",
+                "keyword.other.unit.s.css",
+                "keyword.other.unit.deg.css",
+                "keyword.other.unit.grad.css",
+                "keyword.other.unit.rad.css",
+                "keyword.other.unit.turn.css",
+                "keyword.other.unit.mm.css",
+                "keyword.other.unit.cm.css",
+                "keyword.other.unit.in.css",
+                "keyword.other.unit.vmin.css",
+                "keyword.other.unit.vmax.css",
                 "keyword.other.unit.percentage.css"
             ],
             "settings":{
@@ -611,6 +615,175 @@
             ],
             "settings":{
                 "foreground":"#EEFFFF"
+            }
+        },
+        {
+            "name":"Markdown - Level 1",
+            "scope":[
+                "text.html.markdown heading.1.markdown entity.name.section",
+                "heading.1.markdown punctuation.definition.heading.markdown"
+            ],
+            "settings":{
+                "foreground":"#6fa7bc",
+                "fontStyle":"bold"
+            }
+        },
+        {
+            "name":"Markdown - Level 2",
+            "scope":[
+                "text.html.markdown heading.2.markdown entity.name.section",
+                "heading.2.markdown punctuation.definition.heading.markdown"
+            ],
+            "settings":{
+                "foreground":"#7cafc2",
+                "fontStyle":"bold"
+            }
+        },
+        {
+            "name":"Markdown - Level 3",
+            "scope":[
+                "text.html.markdown heading.3.markdown entity.name.section",
+                "heading.3.markdown punctuation.definition.heading.markdown"
+            ],
+            "settings":{
+                "foreground":"#89b7c8",
+                "fontStyle":"bold"
+            }
+        },
+        {
+            "name":"Markdown - Level 4",
+            "scope":[
+                "text.html.markdown heading.4.markdown entity.name.section",
+                "heading.4.markdown punctuation.definition.heading.markdown"
+            ],
+            "settings":{
+                "foreground":"#97bfce",
+                "fontStyle":"bold"
+            }
+        },
+        {
+            "name":"Markdown - Level 5",
+            "scope":[
+                "text.html.markdown heading.5.markdown entity.name.section",
+                "heading.5.markdown punctuation.definition.heading.markdown"
+            ],
+            "settings":{
+                "foreground":"#a4c8d5",
+                "fontStyle":"bold"
+            }
+        },
+        {
+            "name":"Markdown - Level 6",
+            "scope":[
+                "text.html.markdown heading.6.markdown entity.name.section",
+                "heading.6.markdown punctuation.definition.heading.markdown"
+            ],
+            "settings":{
+                "foreground":"#b2d0db",
+                "fontStyle":"500"
+            }
+        },
+        {
+            "name":"Markdown - Title url",
+            "scope":[
+                "punctuation.definition.string.begin.markdown",
+                "punctuation.definition.string.end.markdown"
+            ],
+            "settings":{
+                "foreground":"#AC4142"
+            }
+        },
+        {
+            "name":"Markdown - literal template",
+            "scope":[
+                "markup.inline.raw.string.markdown",
+                "punctuation.definition.raw.markdown"
+            ],
+            "settings":{
+                "foreground":"#ba8baf"
+            }
+        },
+        {
+            "name":"Markdown - image url",
+            "scope":[
+                "markup.underline.link.image.markdown",
+                "meta.image.inline.markdown"
+            ],
+            "settings":{
+                "foreground":"#FFCB6B"
+            }
+        },
+        {
+            "name":"Markdown - lists",
+            "scope":[
+                "punctuation.definition.list.begin.markdown",
+                "markup.list.unnumbered.markdown"
+            ],
+            "settings":{
+                "foreground":"#ff9cac"
+            }
+        },
+        {
+            "name":"Markdown - text",
+            "scope":"meta.paragraph.markdown",
+            "settings":{
+                "foreground":"#90A959"
+            }
+        },
+        {
+            "name":"HTML - Doctype",
+            "scope":"meta.tag.sgml.doctype.html",
+            "settings":{
+                "foreground":"#dc9656",
+                "fontStyle":"500"
+            }
+        },
+        {
+            "name":"Nunjucks - Path",
+            "scope":[
+                "text.html.nunjucks storage"
+            ],
+            "settings":{
+                "foreground":"#90A959"
+            }
+        },
+        {
+            "name":"Nunjucks - Operator",
+            "scope":"keyword.operator.nunjucks",
+            "settings":{
+                "foreground":"#dc9656"
+            }
+        },
+        {
+            "name":"Nunjucks - Variables",
+            "scope":"text.html.nunjucks string.unquoted.tag-string.nunjucks",
+            "settings":{
+                "foreground":"#ac4154"
+            }
+        },
+        {
+            "name":"Nunjucks - Equals",
+            "scope":"text.html.nunjucks storage.type.templatetag.nunjucks",
+            "settings":{
+                "foreground":"#EEFFFF"
+            }
+        },
+        {
+            "name":"Literal template - Braces",
+            "scope":[
+                "string.template.js meta.brace.round.js",
+                "punctuation.definition.block.js",
+                "punctuation.separator.key-value.js"
+            ],
+            "settings":{
+                "foreground":"#EEFFFF"
+            }
+        },
+        {
+            "name":"Nunjucks - Braces",
+            "scope":"entity.tag.tagbraces.nunjucks",
+            "settings":{
+                "foreground":"#7cafc2"
             }
         }
     ],

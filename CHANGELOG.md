@@ -1,4 +1,4 @@
-# v2.0.0 (January 21, 2020)
+# v2.0.0 (January 22, 2020)
 * Themes: Type 0, A, B, AB
 * Support: jsdoc syntax
 

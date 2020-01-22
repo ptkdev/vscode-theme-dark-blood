@@ -8,7 +8,7 @@
 
 # v1.1.0 (January 21, 2020)
 * Support: nunjucks
-* Support: markdown
+* Support: markdownfix misprints
 * Feature: recommended extensions
 * Fix: braces template literals
 

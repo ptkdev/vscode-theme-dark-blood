@@ -35,10 +35,10 @@
 					"include":"#comment-jsdoc-twitter"
 				},
 				{
-					"include":"#comment-jsdoc-separator"
+					"include":"#comment-jsdoc-head-separator"
 				},
 				{
-					"include":"#comment-jsdoc-title"
+					"include":"#comment-jsdoc-head-title"
 				}
 			]
 		},
@@ -47,7 +47,7 @@
 			"name":"comment.jsdoc.key"
 		},
 		"comment-jsdoc-key-var-type":{
-			"match":"({)([a-zA-Z0-9-.$_]*)(})",
+			"match":"(?<=\\s)({)(.*?)(})(?=\\s)",
 			"name":"comment.jsdoc.key.var.type"
 		},
 		"comment-jsdoc-key-var-name":{
@@ -55,7 +55,7 @@
 			"name":"comment.jsdoc.key.var.name"
 		},
 		"comment-jsdoc-key-var-description":{
-			"match":"(-\\s*.*\\s)",
+			"match":"(?<=\\s)(-.*)(?=\\n|\\*)",
 			"name":"comment.jsdoc.key.var.description"
 		},
 		"comment-jsdoc-email":{
@@ -69,6 +69,14 @@
 		"comment-jsdoc-twitter":{
 			"match":"\\[@(.*?)\\]",
 			"name":"comment.jsdoc.twitter"
+		},
+		"comment-jsdoc-head-separator":{
+			"match":"(?<=\\s)(=)(=*?)(=)(?=\\s)",
+			"name":"comment.jsdoc.head.separator"
+		},
+		"comment-jsdoc-head-title":{
+			"match":"(?<=\\*)(.*\\n.*)(?=\\*\\s=)",
+			"name":"comment.jsdoc.head.title"
 		}
 	}
 }

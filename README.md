@@ -2,7 +2,7 @@
 
 # 🎨 Dark Blood Theme for VSCode
 
-[![](https://img.shields.io/badge/version-v2.0.1-lightgrey.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/releases) [![](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/master/LICENSE.md) [![](https://img.shields.io/badge/ES-9-F7DF1E.svg)](https://wikipedia.org/wiki/ECMAScript) [![](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood/badge.svg)](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood)
+[![](https://img.shields.io/badge/version-v2.0.2-lightgrey.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/releases) [![](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/master/LICENSE.md) [![](https://img.shields.io/badge/ES-9-F7DF1E.svg)](https://wikipedia.org/wiki/ECMAScript) [![](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood/badge.svg)](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood)
 
 > VS Code theme for the night work. Inspired by base16-dark.
 
@@ -37,45 +37,45 @@
 ### Blood - Default
 <table>
 	<tr>
-		<td width="30%"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/screen1.png)](https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/notype-1.png"></td>
-		<td width="30%"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/screen1.png)](https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/notype-2.png"></td>
-		<td width="30%"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/screen1.png)](https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/notype-3.png"></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/notype-1.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/notype-1.png"></a></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/notype-2.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/notype-2.png"></a></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/notype-3.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/notype-3.png"></a></td>
 	</tr>
 </table>
 
 ### Blood - Type A
 <table>
 	<tr>
-		<td width="30%"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/screen1.png)](https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-a-1.png"></td>
-		<td width="30%"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/screen1.png)](https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-a-2.png"></td>
-		<td width="30%"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/screen1.png)](https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-a-3.png"></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-a-1.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-a-1.png"></a></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-a-2.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-a-2.png"></a></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-a-3.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-a-3.png"></a></td>
 	</tr>
 </table>
 
 ### Blood - Type B
 <table>
 	<tr>
-		<td width="30%"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/screen1.png)](https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-b-1.png"></td>
-		<td width="30%"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/screen1.png)](https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-b-2.png"></td>
-		<td width="30%"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/screen1.png)](https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-b-3.png"></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-b-1.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-b-1.png"></a></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-b-2.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-b-2.png"></a></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-b-3.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-b-3.png"></a></td>
 	</tr>
 </table>
 
 ### Blood - Type AB
 <table>
 	<tr>
-		<td width="30%"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/screen1.png)](https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-ab-1.png"></td>
-		<td width="30%"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/screen1.png)](https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-ab-2.png"></td>
-		<td width="30%"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/screen1.png)](https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-ab-3.png"></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-ab-1.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-ab-1.png"></a></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-ab-2.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-ab-2.png"></a></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-ab-3.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-ab-3.png"></a></td>
 	</tr>
 </table>
 
 ### Blood - Type 0
 <table>
 	<tr>
-		<td width="30%"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/screen1.png)](https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-zero-1.png"></td>
-		<td width="30%"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/screen1.png)](https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-zero-2.png"></td>
-		<td width="30%"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/screen1.png)](https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-zero-3.png"></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-zero-1.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-zero-1.png"></a></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-zero-2.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-zero-2.png"></a></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-zero-3.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/type-zero-3.png"></a></td>
 	</tr>
 </table>
 

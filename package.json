@@ -2,7 +2,7 @@
 	"name":"dark-blood-theme",
 	"displayName":"Dark Blood Theme",
 	"description":"VS Code theme for the night work. Inspired by base16-dark.",
-	"version":"2.0.0",
+	"version":"2.0.1",
 	"publisher":"ptkdev",
 	"author":"Patryk Rzucidło [@ptkdev] <support@ptkdev.io> (https://ptk.dev)",
 	"license":"MIT",
@@ -81,8 +81,7 @@
 		"url":"https://github.com/ptkdev/vscode-theme-dark-blood.git"
 	},
 	"scripts":{
-		"start":"gulp build",
-		"dev":"gulp build && gulp dev",
+		"build":"gulp build",
 		"package":"cd './build/ptkdev.dark-blood-theme' && vsce package",
 		"lint":"eslint ./ --cache --ignore-pattern .gitignore",
 		"lint-fix":"eslint ./ --cache --ignore-pattern .gitignore --fix",

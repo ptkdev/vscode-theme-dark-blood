@@ -2,7 +2,7 @@
 
 # 🎨 Dark Blood Theme for VSCode
 
-[![](https://img.shields.io/badge/version-v2.0.0-lightgrey.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/releases) [![](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/master/LICENSE.md) [![](https://img.shields.io/badge/ES-9-F7DF1E.svg)](https://wikipedia.org/wiki/ECMAScript) [![](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood/badge.svg)](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood)
+[![](https://img.shields.io/badge/version-v2.0.1-lightgrey.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/releases) [![](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/master/LICENSE.md) [![](https://img.shields.io/badge/ES-9-F7DF1E.svg)](https://wikipedia.org/wiki/ECMAScript) [![](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood/badge.svg)](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood)
 
 > VS Code theme for the night work. Inspired by base16-dark.
 
@@ -96,7 +96,7 @@ Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter
 ## 🔨 Developer Mode
 1. Download [stable](https://github.com/ptkdev/vscode-theme-dark-blood/archive/master.zip).
 2. Run `npm install`
-3. Run `npm run dev`
+3. Run `npm run build`
 4. Install VSCode.
 5. Copy `build` content to `~/.vscode/extensions/` folder
 6. Open VSCode, go to extensions, click on "Dark Blood Theme"

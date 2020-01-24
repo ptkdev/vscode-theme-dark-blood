@@ -2,7 +2,7 @@
 
 # 🎨 Dark Blood Theme for VSCode
 
-[![](https://img.shields.io/badge/version-v2.0.2-lightgrey.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/releases) [![](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/master/LICENSE.md) [![](https://img.shields.io/badge/ES-9-F7DF1E.svg)](https://wikipedia.org/wiki/ECMAScript) [![](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood/badge.svg)](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood)
+[![](https://img.shields.io/badge/version-v2.0.3-lightgrey.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/releases) [![](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/master/LICENSE.md) [![](https://img.shields.io/badge/ES-9-F7DF1E.svg)](https://wikipedia.org/wiki/ECMAScript) [![](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood/badge.svg)](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood)
 
 > VS Code theme for the night work. Inspired by base16-dark.
 

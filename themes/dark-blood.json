@@ -791,7 +791,7 @@
 			"scope":"comment.jsdoc.key",
 			"settings":{
 				"fontStyle":"italic",
-				"foreground":"#ba8baf95"
+				"foreground":"#ba8baf98"
 			}
 		},
 		{
@@ -799,7 +799,7 @@
 			"scope":"comment.jsdoc.key.var.type",
 			"settings":{
 				"fontStyle":"italic",
-				"foreground":"#7cafc295"
+				"foreground":"#7cafc298"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"scope":"comment.jsdoc.key.var.name",
 			"settings":{
 				"fontStyle":"italic",
-				"foreground":"#AC414295"
+				"foreground":"#AC414298"
 			}
 		},
 		{
@@ -815,7 +815,7 @@
 			"scope":"comment.jsdoc.key.var.description",
 			"settings":{
 				"fontStyle":"italic",
-				"foreground":"#58585895"
+				"foreground":"#58585898"
 			}
 		}
 	],

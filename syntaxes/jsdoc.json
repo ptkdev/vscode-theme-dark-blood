@@ -69,14 +69,6 @@
 		"comment-jsdoc-twitter":{
 			"match":"\\[@(.*?)\\]",
 			"name":"comment.jsdoc.twitter"
-		},
-		"comment-jsdoc-head-separator":{
-			"match":"(?<=\\s)(=)(=*?)(=)(?=\\s)",
-			"name":"comment.jsdoc.head.separator"
-		},
-		"comment-jsdoc-head-title":{
-			"match":"(?<=\\*)(.*\\n.*)(?=\\*\\s=)",
-			"name":"comment.jsdoc.head.title"
 		}
 	}
 }

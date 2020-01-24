@@ -1,9 +1,14 @@
+# v2.0.3 (January 24, 2020)
+* Fix: comment block regex
+* Fix: opacity of comment description of @param
+
+[![](https://img.shields.io/badge/donate-paypal-005EA6.svg)](https://www.paypal.me/ptkdev) [![](https://img.shields.io/badge/donate-patreon-F87668.svg)](https://www.patreon.com/ptkdev) [![](https://img.shields.io/badge/donate-sponsors-ea4aaa.svg)](https://github.com/sponsors/ptkdev/)  [![](https://img.shields.io/badge/donate-ko--fi-29abe0.svg)](https://ko-fi.com/ptkdev)
+
+
 # v2.0.2 (January 22, 2020)
 * Themes: Type 0, A, B, AB
 * Support: jsdoc syntax
 * Update: fix misprints
-
-[![](https://img.shields.io/badge/donate-paypal-005EA6.svg)](https://www.paypal.me/ptkdev) [![](https://img.shields.io/badge/donate-patreon-F87668.svg)](https://www.patreon.com/ptkdev) [![](https://img.shields.io/badge/donate-sponsors-ea4aaa.svg)](https://github.com/sponsors/ptkdev/)  [![](https://img.shields.io/badge/donate-ko--fi-29abe0.svg)](https://ko-fi.com/ptkdev)
 
 
 # v1.1.0 (January 21, 2020)

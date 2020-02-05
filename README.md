@@ -85,7 +85,7 @@
 3. Click to `Set Color Theme` and confirm theme.
 
 🧩 Extra: if you want exactly what the screenshots look like (icons, hexcode colors preview, etc), install these extensions:
-- Set **[Fira Code Font](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)** or [JetBrains Mono](https://www.jetbrains.com/lp/mono/#how-to-install) (13.5px size and 500 weight + ligatures).
+- Set **[Fira Code Font](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)** or **[JetBrains Mono](https://www.jetbrains.com/lp/mono/#how-to-install)** (13.5px size and 500 weight + ligatures).
 - `ext install naumovs.color-highlight`
 - `ext install pkief.material-icon-theme`
 - `ext install wiggin77.codedox`

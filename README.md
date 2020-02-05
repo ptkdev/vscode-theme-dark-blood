@@ -2,7 +2,7 @@
 
 # 🎨 Dark Blood Theme for VSCode
 
-[![](https://img.shields.io/badge/version-v2.0.3-lightgrey.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/releases) [![](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/master/LICENSE.md) [![](https://img.shields.io/badge/ES-9-F7DF1E.svg)](https://wikipedia.org/wiki/ECMAScript) [![](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood/badge.svg)](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood)
+[![](https://img.shields.io/badge/version-v2.0.4-lightgrey.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/releases) [![](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/master/LICENSE.md) [![](https://img.shields.io/badge/ES-9-F7DF1E.svg)](https://wikipedia.org/wiki/ECMAScript) [![](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood/badge.svg)](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood)
 
 > VS Code theme for the night work. Inspired by base16-dark.
 
@@ -22,15 +22,15 @@
 - ❤️ [Contributing](#-contributing)
 - 🐛 [Known Bugs](https://github.com/ptkdev/vscode-theme-dark-blood/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 - 🍻 Community:
-  - [<img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/social_discord.png" height="18px"> Discord](http://discord.ptkdev.io)
-  - [<img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/social_slack.png" height="18px"> Slack](http://slack.ptkdev.io)
-  - [<img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/social_twitter.png" height="18px"> Twitter](http://twitter.ptkdev.io)
+  - <img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/social_discord.png" height="18px"> [Discord](http://discord.ptkdev.io) ([🇬🇧 English Channel](https://discord.gg/4zW4KNz) | [🇮🇹 Italian Channel](https://discord.gg/4vggHge) | [🇵🇱 Polish Channel](https://discord.gg/exnyeD4))
+  - <img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/social_twitter.png" height="18px"> [Twitter](http://twitter.ptkdev.io)
 
 ## 💡 Features
 * [✔️] Easy to use
 * [✔️] MIT License
+* [✔️] 5 Themes
 * [✔️] Programming languages: all supported by visual studio code
-* [✔️] Optimized languages: javascript/es6/nodejs, json, css/sass, html5, markdown, nunjucks
+* [✔️] Optimized languages: javascript/es6/nodejs, json, css/sass, html5, markdown, nunjucks, jsdoc
 
 ## 👔 Screenshot
 
@@ -84,17 +84,17 @@
 2. Open VSCode, go to extensions, click on "Dark Blood Theme"
 3. Click to `Set Color Theme` and confirm theme.
 
-### 🧩 Extra
-If you want exactly what the screenshots look like (icons, hexcode colors preview, etc), install these extensions:
-- Set `Fira Code` Font (13.5px size and 500 weight), see [instructions](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions).
+🧩 Extra: if you want exactly what the screenshots look like (icons, hexcode colors preview, etc), install these extensions:
+- Set **[Fira Code Font](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)** or [JetBrains Mono](https://www.jetbrains.com/lp/mono/#how-to-install) (13.5px size and 500 weight + ligatures).
 - `ext install naumovs.color-highlight`
 - `ext install pkief.material-icon-theme`
-- `ext install ronnidc.nunjucks`
+- `ext install wiggin77.codedox`
+- `ext install exodiusstudios.comment-anchors`
 
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
 ## 🔨 Developer Mode
-1. Download [stable](https://github.com/ptkdev/vscode-theme-dark-blood/archive/master.zip).
+1. Download [nightly](https://github.com/ptkdev/vscode-theme-dark-blood/archive/nightly.zip).
 2. Run `npm install`
 3. Run `npm run build`
 4. Install VSCode.

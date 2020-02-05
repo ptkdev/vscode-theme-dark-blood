@@ -2,7 +2,7 @@
 	"name":"@ptkdev/vscode-theme-dark-blood",
 	"displayName":"Dark Blood Theme",
 	"description":"VS Code theme for the night work. Inspired by base16-dark.",
-	"version":"2.0.3",
+	"version":"2.0.4",
 	"publisher":"ptkdev",
 	"author":"Patryk Rzucidło [@ptkdev] <support@ptkdev.io> (https://ptk.dev)",
 	"license":"MIT",
@@ -67,7 +67,8 @@
 	"extensionPack":[
 		"naumovs.color-highlight",
 		"pkief.material-icon-theme",
-		"ronnidc.nunjucks"
+		"wiggin77.codedox",
+		"exodiusstudios.comment-anchors"
 	],
 	"icon":"dark-blood.png",
 	"donate":{

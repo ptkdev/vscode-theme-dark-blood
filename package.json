@@ -65,7 +65,7 @@
 		]
 	},
 	"extensionPack":[
-		"naumovs.color-highlight",
+		"kamikillerto.vscode-colorize",
 		"pkief.material-icon-theme",
 		"wiggin77.codedox",
 		"exodiusstudios.comment-anchors"

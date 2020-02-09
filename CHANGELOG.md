@@ -1,4 +1,5 @@
-# v2.0.4 (TBD)
+# v2.0.4 (February 09, 2020)
+* Fix: hover popup (ctrl + hover on function/method) now is more readable
 * Update: Readme
 * Update: Recommended extensions
 

@@ -1,5 +1,6 @@
 # v2.0.5 (TBD)
 * Fix: lint json (space after two dots)
+* Revert: color highlight recommended extensions
 * TODO: key-value object in js with the same color as json key-value
 
 [![](https://img.shields.io/badge/donate-paypal-005EA6.svg)](https://www.paypal.me/ptkdev) [![](https://img.shields.io/badge/donate-patreon-F87668.svg)](https://www.patreon.com/ptkdev) [![](https://img.shields.io/badge/donate-sponsors-ea4aaa.svg)](https://github.com/sponsors/ptkdev/)  [![](https://img.shields.io/badge/donate-ko--fi-29abe0.svg)](https://ko-fi.com/ptkdev)

@@ -86,8 +86,8 @@
 
 🧩 Extra: if you want exactly what the screenshots look like (icons, hexcode colors preview, etc), install these extensions:
 - Set **[Fira Code Font](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)** or **[JetBrains Mono](https://www.jetbrains.com/lp/mono/#how-to-install)** (13.5px size and 500 weight + ligatures).
-- `ext install kamikillerto.vscode-colorize`
 - `ext install pkief.material-icon-theme`
+- `ext install naumovs.color-highlight`
 - `ext install wiggin77.codedox`
 - `ext install exodiusstudios.comment-anchors`
 

@@ -1,60 +1,60 @@
 {
-	"name":"@ptkdev/vscode-theme-dark-blood",
-	"displayName":"Dark Blood Theme",
-	"description":"VS Code theme for the night work. Inspired by base16-dark.",
-	"version":"2.0.4",
-	"publisher":"ptkdev",
-	"author":"Patryk Rzucidło [@ptkdev] <support@ptkdev.io> (https://ptk.dev)",
-	"license":"MIT",
-	"license-docs":"CC BY 4.0",
-	"license-images":"CC BY-NC 4.0",
-	"homepage":"https://marketplace.visualstudio.com/items?itemName=ptkdev.dark-blood-theme",
-	"bugs":{
-		"url":"https://github.com/ptkdev/vscode-theme-dark-blood/issues"
+	"name": "@ptkdev/vscode-theme-dark-blood",
+	"displayName": "Dark Blood Theme",
+	"description": "VS Code theme for the night work. Inspired by base16-dark.",
+	"version": "2.0.4",
+	"publisher": "ptkdev",
+	"author": "Patryk Rzucidło [@ptkdev] <support@ptkdev.io> (https://ptk.dev)",
+	"license": "MIT",
+	"license-docs": "CC BY 4.0",
+	"license-images": "CC BY-NC 4.0",
+	"homepage": "https://marketplace.visualstudio.com/items?itemName=ptkdev.dark-blood-theme",
+	"bugs": {
+		"url": "https://github.com/ptkdev/vscode-theme-dark-blood/issues"
 	},
-	"galleryBanner":{
-		"color":"#141414",
-		"theme":"dark"
+	"galleryBanner": {
+		"color": "#141414",
+		"theme": "dark"
 	},
-	"engines":{
-		"vscode":"^1.17.0"
+	"engines": {
+		"vscode": "^1.17.0"
 	},
-	"categories":[
+	"categories": [
 		"Themes"
 	],
-	"contributes":{
-		"themes":[
+	"contributes": {
+		"themes": [
 			{
-				"label":"Dark Blood",
-				"uiTheme":"vs-dark",
-				"path":"./themes/dark-blood.json"
+				"label": "Dark Blood",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-blood.json"
 			},
 			{
-				"label":"Dark Blood (Type: A)",
-				"uiTheme":"vs-dark",
-				"path":"./themes/dark-blood-type-a.json"
+				"label": "Dark Blood (Type: A)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-blood-type-a.json"
 			},
 			{
-				"label":"Dark Blood (Type: B)",
-				"uiTheme":"vs-dark",
-				"path":"./themes/dark-blood-type-b.json"
+				"label": "Dark Blood (Type: B)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-blood-type-b.json"
 			},
 			{
-				"label":"Dark Blood (Type: AB)",
-				"uiTheme":"vs-dark",
-				"path":"./themes/dark-blood-type-ab.json"
+				"label": "Dark Blood (Type: AB)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-blood-type-ab.json"
 			},
 			{
-				"label":"Dark Blood (Type: 0)",
-				"uiTheme":"vs-dark",
-				"path":"./themes/dark-blood-type-zero.json"
+				"label": "Dark Blood (Type: 0)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-blood-type-zero.json"
 			}
 		],
-		"grammars":[
+		"grammars": [
 			{
-				"path":"./syntaxes/jsdoc.json",
-				"scopeName":"comment.jsdoc",
-				"injectTo":[
+				"path": "./syntaxes/jsdoc.json",
+				"scopeName": "comment.jsdoc",
+				"injectTo": [
 					"source.js",
 					"source.ts",
 					"source.jsx",
@@ -64,39 +64,39 @@
 			}
 		]
 	},
-	"extensionPack":[
+	"extensionPack": [
 		"kamikillerto.vscode-colorize",
 		"pkief.material-icon-theme",
 		"wiggin77.codedox",
 		"exodiusstudios.comment-anchors"
 	],
-	"icon":"dark-blood.png",
-	"donate":{
-		"github":"https://github.com/sponsors/ptkdev",
-		"patreon":"https://www.patreon.com/ptkdev",
-		"paypal":"https://www.paypal.me/ptkdev",
-		"ko-fi":"https://ko-fi.com/ptkdev"
+	"icon": "dark-blood.png",
+	"donate": {
+		"github": "https://github.com/sponsors/ptkdev",
+		"patreon": "https://www.patreon.com/ptkdev",
+		"paypal": "https://www.paypal.me/ptkdev",
+		"ko-fi": "https://ko-fi.com/ptkdev"
 	},
-	"repository":{
-		"type":"git",
-		"url":"https://github.com/ptkdev/vscode-theme-dark-blood.git"
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ptkdev/vscode-theme-dark-blood.git"
 	},
-	"scripts":{
-		"build":"gulp build",
-		"package":"cd './build/ptkdev.dark-blood-theme' && vsce package",
-		"lint":"eslint ./ --cache --ignore-pattern .gitignore",
-		"lint-fix":"eslint ./ --cache --ignore-pattern .gitignore --fix",
-		"clean":"rm -rf node_modules build package-lock.json && npm install",
-		"update":"rm -f package-lock.json && npm update",
-		"docs":"markserv ./README.md",
-		"contributors-generate":"all-contributors generate"
+	"scripts": {
+		"build": "gulp build",
+		"package": "cd './build/ptkdev.dark-blood-theme' && vsce package",
+		"lint": "eslint ./ --cache --ignore-pattern .gitignore",
+		"lint-fix": "eslint ./ --cache --ignore-pattern .gitignore --fix",
+		"clean": "rm -rf node_modules build package-lock.json && npm install",
+		"update": "rm -f package-lock.json && npm update",
+		"docs": "markserv ./README.md",
+		"contributors-generate": "all-contributors generate"
 	},
-	"husky":{
-		"hooks":{
-			"pre-commit":"npm run lint && npm run contributors-generate"
+	"husky": {
+		"hooks": {
+			"pre-commit": "npm run lint && npm run contributors-generate"
 		}
 	},
-	"keywords":[
+	"keywords": [
 		"ptkdev",
 		"vscode",
 		"vscode-theme",
@@ -108,42 +108,42 @@
 		"dark-blood",
 		"jetblack"
 	],
-	"devDependencies":{
-		"vsce":"latest",
-		"eslint":"latest",
-		"eslint-config-standard":"latest",
-		"eslint-plugin-import":"latest",
-		"eslint-plugin-jsdoc":"latest",
-		"eslint-plugin-jest":"latest",
-		"eslint-plugin-node":"latest",
-		"eslint-plugin-snakecasejs":"latest",
-		"eslint-plugin-promise":"latest",
-		"gulp":"latest",
-		"gulp-concat":"latest",
-		"gulp-clean-css":"latest",
-		"gulp-jsonminify":"latest",
-		"gulp-terser":"latest",
-		"gulp-rename":"latest",
-		"gulp-replace":"latest",
-		"gulp-nunjucks":"latest",
-		"gulp-data":"latest",
-		"gulp-run":"latest",
-		"gulp-sass":"latest",
-		"chai":"latest",
-		"cpy-cli":"latest",
-		"json":"latest",
-		"jest":"latest",
-		"husky":"latest",
-		"yargs":"latest",
-		"markserv":"latest",
-		"all-contributors-cli":"latest"
+	"devDependencies": {
+		"vsce": "latest",
+		"eslint": "latest",
+		"eslint-config-standard": "latest",
+		"eslint-plugin-import": "latest",
+		"eslint-plugin-jsdoc": "latest",
+		"eslint-plugin-jest": "latest",
+		"eslint-plugin-node": "latest",
+		"eslint-plugin-snakecasejs": "latest",
+		"eslint-plugin-promise": "latest",
+		"gulp": "latest",
+		"gulp-concat": "latest",
+		"gulp-clean-css": "latest",
+		"gulp-jsonminify": "latest",
+		"gulp-terser": "latest",
+		"gulp-rename": "latest",
+		"gulp-replace": "latest",
+		"gulp-nunjucks": "latest",
+		"gulp-data": "latest",
+		"gulp-run": "latest",
+		"gulp-sass": "latest",
+		"chai": "latest",
+		"cpy-cli": "latest",
+		"json": "latest",
+		"jest": "latest",
+		"husky": "latest",
+		"yargs": "latest",
+		"markserv": "latest",
+		"all-contributors-cli": "latest"
 	},
-	"contributors":[
+	"contributors": [
 
 	],
-	"__metadata":{
-		"id":"db9483ac-79c5-47c6-a344-1912024dc95b",
-		"publisherId":"be2e6da3-a8d0-4226-b3da-0f305878b0c7",
-		"publisherDisplayName":"Patryk Rzucidło (PTKDev)"
+	"__metadata": {
+		"id": "db9483ac-79c5-47c6-a344-1912024dc95b",
+		"publisherId": "be2e6da3-a8d0-4226-b3da-0f305878b0c7",
+		"publisherDisplayName": "Patryk Rzucidło (PTKDev)"
 	}
 }

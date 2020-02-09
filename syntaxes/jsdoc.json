@@ -1,74 +1,74 @@
 {
-	"scopeName":"comment.jsdoc",
-	"injectionSelector":[
+	"scopeName": "comment.jsdoc",
+	"injectionSelector": [
 		"L:comment.line.double-slash",
 		"L:comment.block",
 		"L:comment.block.documentation"
 	],
-	"patterns":[
+	"patterns": [
 		{
-			"include":"#expression"
+			"include": "#expression"
 		}
 	],
-	"repository":{
-		"expression":{
-			"patterns":[
+	"repository": {
+		"expression": {
+			"patterns": [
 				{
-					"include":"#comment-jsdoc-key"
+					"include": "#comment-jsdoc-key"
 				},
 				{
-					"include":"#comment-jsdoc-key-var-type"
+					"include": "#comment-jsdoc-key-var-type"
 				},
 				{
-					"include":"#comment-jsdoc-key-var-name"
+					"include": "#comment-jsdoc-key-var-name"
 				},
 				{
-					"include":"#comment-jsdoc-key-var-description"
+					"include": "#comment-jsdoc-key-var-description"
 				},
 				{
-					"include":"#comment-jsdoc-email"
+					"include": "#comment-jsdoc-email"
 				},
 				{
-					"include":"#comment-jsdoc-link"
+					"include": "#comment-jsdoc-link"
 				},
 				{
-					"include":"#comment-jsdoc-twitter"
+					"include": "#comment-jsdoc-twitter"
 				},
 				{
-					"include":"#comment-jsdoc-head-separator"
+					"include": "#comment-jsdoc-head-separator"
 				},
 				{
-					"include":"#comment-jsdoc-head-title"
+					"include": "#comment-jsdoc-head-title"
 				}
 			]
 		},
-		"comment-jsdoc-key":{
-			"match":"(@)([a-zA-Z0-9-.$_]*)(\\s*|:)",
-			"name":"comment.jsdoc.key"
+		"comment-jsdoc-key": {
+			"match": "(@)([a-zA-Z0-9-.$_]*)(\\s*|:)",
+			"name": "comment.jsdoc.key"
 		},
-		"comment-jsdoc-key-var-type":{
-			"match":"(?<=\\s)({)(.*?)(})(?=\\s)",
-			"name":"comment.jsdoc.key.var.type"
+		"comment-jsdoc-key-var-type": {
+			"match": "(?<=\\s)({)(.*?)(})(?=\\s)",
+			"name": "comment.jsdoc.key.var.type"
 		},
-		"comment-jsdoc-key-var-name":{
-			"match":"(?<=})\\s*[a-zA-Z0-9-.$_]*\\s*(?=-)",
-			"name":"comment.jsdoc.key.var.name"
+		"comment-jsdoc-key-var-name": {
+			"match": "(?<=})\\s*[a-zA-Z0-9-.$_]*\\s*(?=-)",
+			"name": "comment.jsdoc.key.var.name"
 		},
-		"comment-jsdoc-key-var-description":{
-			"match":"(?<=\\s)(-.*)(?=\\n|\\*)",
-			"name":"comment.jsdoc.key.var.description"
+		"comment-jsdoc-key-var-description": {
+			"match": "(?<=\\s)(-.*)(?=\\n|\\*)",
+			"name": "comment.jsdoc.key.var.description"
 		},
-		"comment-jsdoc-email":{
-			"match":"(<)([a-zA-Z0-9-.@_]*)(>)",
-			"name":"comment.jsdoc.email"
+		"comment-jsdoc-email": {
+			"match": "(<)([a-zA-Z0-9-.@_]*)(>)",
+			"name": "comment.jsdoc.email"
 		},
-		"comment-jsdoc-link":{
-			"match":"\\(http|ftp|ssh(.*?)\\)",
-			"name":"comment.jsdoc.link"
+		"comment-jsdoc-link": {
+			"match": "\\(http|ftp|ssh(.*?)\\)",
+			"name": "comment.jsdoc.link"
 		},
-		"comment-jsdoc-twitter":{
-			"match":"\\[@(.*?)\\]",
-			"name":"comment.jsdoc.twitter"
+		"comment-jsdoc-twitter": {
+			"match": "\\[@(.*?)\\]",
+			"name": "comment.jsdoc.twitter"
 		}
 	}
 }

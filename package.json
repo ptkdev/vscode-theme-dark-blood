@@ -17,7 +17,7 @@
 		"theme": "dark"
 	},
 	"engines": {
-		"vscode": "^1.17.0"
+		"vscode": "^1.32.0"
 	},
 	"categories": [
 		"Themes"
@@ -138,9 +138,7 @@
 		"markserv": "latest",
 		"all-contributors-cli": "latest"
 	},
-	"contributors": [
-
-	],
+	"contributors": [],
 	"__metadata": {
 		"id": "db9483ac-79c5-47c6-a344-1912024dc95b",
 		"publisherId": "be2e6da3-a8d0-4226-b3da-0f305878b0c7",

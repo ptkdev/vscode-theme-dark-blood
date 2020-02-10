@@ -179,9 +179,7 @@
 			"name": "Literal template brace ${xxx}",
 			"scope": [
 				"punctuation.definition.template-expression.begin.js",
-				"punctuation.definition.template-expression.end.js",
-				"punctuation.definition.string.template.begin.js",
-				"punctuation.definition.string.template.end.js"
+				"punctuation.definition.template-expression.end.js"
 			],
 			"settings": {
 				"foreground": "#A17FC0"
@@ -469,6 +467,7 @@
 				"meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#da3b30"
 			}
 		},
@@ -478,6 +477,7 @@
 				"meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#4974a5"
 			}
 		},
@@ -487,6 +487,7 @@
 				"meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#fc9867"
 			}
 		},
@@ -496,6 +497,7 @@
 				"meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#ff9cac"
 			}
 		},
@@ -505,6 +507,7 @@
 				"meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#A17FC0"
 			}
 		},
@@ -514,6 +517,7 @@
 				"meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#f7ca88"
 			}
 		},
@@ -523,6 +527,7 @@
 				"meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#916b53"
 			}
 		},
@@ -532,7 +537,8 @@
 				"meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#da3b30"
+				"fontStyle": "italic",
+				"foreground": "#C3E88D"
 			}
 		},
 		{
@@ -541,7 +547,116 @@
 				"meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#da3b30"
+			}
+		},
+		{
+			"name": "Javascript Object Key - Level 0",
+			"scope": [
+				"meta.objectliteral.js meta.object.member.js meta.object-literal.key.js",
+				"meta.objectliteral.js meta.object.member.js meta.object-literal.key.js string.quoted.single.js",
+				"meta.objectliteral.js meta.object.member.js meta.object-literal.key.js string.quoted.double.js"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#da3b30"
+			}
+		},
+		{
+			"name": "Javascript Object Key - Level 1",
+			"scope": [
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js",
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js string.quoted.single.js",
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js string.quoted.double.js"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#4974a5"
+			}
+		},
+		{
+			"name": "Javascript Object Key - Level 2",
+			"scope": [
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js",
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js string.quoted.single.js",
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js string.quoted.double.js"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#fc9867"
+			}
+		},
+		{
+			"name": "Javascript Object Key - Level 3",
+			"scope": [
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js",
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js string.quoted.single.js",
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js string.quoted.double.js"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#ff9cac"
+			}
+		},
+		{
+			"name": "Javascript Object Key - Level 4",
+			"scope": [
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js",
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js string.quoted.single.js",
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js string.quoted.double.js"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#A17FC0"
+			}
+		},
+		{
+			"name": "Javascript Object Key - Level 5",
+			"scope": [
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js",
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js string.quoted.single.js",
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js string.quoted.double.js"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#f7ca88"
+			}
+		},
+		{
+			"name": "Javascript Object Key - Level 6",
+			"scope": [
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js",
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js string.quoted.single.js",
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js string.quoted.double.js"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#916b53"
+			}
+		},
+		{
+			"name": "Javascript Object Key - Level 7",
+			"scope": [
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js",
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js string.quoted.single.js",
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js string.quoted.double.js"
+			],
+			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Javascript Object Key - Level 8",
+			"scope": [
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js",
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js string.quoted.single.js",
+				"meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.objectliteral.js meta.object.member.js meta.object-literal.key.js string.quoted.double.js"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#da3b30"
 			}
 		},
 		{

@@ -2,16 +2,16 @@
 
 # 🎨 Dark Blood Theme for VSCode
 
-[![](https://img.shields.io/badge/version-v2.0.6-lightgrey.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/releases) [![](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/master/LICENSE.md) [![](https://img.shields.io/badge/ES-9-F7DF1E.svg)](https://wikipedia.org/wiki/ECMAScript) [![](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood/badge.svg)](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood)
+[![](https://img.shields.io/badge/version-v2.0.7-lightgrey.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/releases) [![](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/master/LICENSE.md) [![](https://img.shields.io/badge/ES-9-F7DF1E.svg)](https://wikipedia.org/wiki/ECMAScript) [![](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood/badge.svg)](https://snyk.io/test/github/ptkdev/vscode-theme-dark-blood) [![](https://discordapp.com/api/guilds/383373985666301975/embed.png)](http://discord.ptkdev.io)
 
 > VS Code theme for the night work. Inspired by base16-dark.
 
 ## 🎁 Support: Donate
 > This project is **free**, **open source** and I try to provide excellent **free support**. Why donate? I work on this project several hours in my spare time and try to keep it up to date and working. **THANK YOU!**
 
-[![](https://img.shields.io/badge/donate-paypal-005EA6.svg)](https://www.paypal.me/ptkdev) [![](https://img.shields.io/badge/donate-patreon-F87668.svg)](https://www.patreon.com/ptkdev) [![](https://img.shields.io/badge/donate-sponsors-ea4aaa.svg)](https://github.com/sponsors/ptkdev/)  [![](https://img.shields.io/badge/donate-ko--fi-29abe0.svg)](https://ko-fi.com/ptkdev)
+[![](https://img.shields.io/badge/donate-paypal-005EA6.svg?logo=paypal)](https://www.paypal.me/ptkdev) [![](https://img.shields.io/badge/donate-patreon-F87668.svg?logo=patreon)](https://www.patreon.com/ptkdev) [![](https://img.shields.io/badge/donate-sponsors-ea4aaa.svg?logo=github)](https://github.com/sponsors/ptkdev/)  [![](https://img.shields.io/badge/donate-ko--fi-29abe0.svg?logo=ko-fi)](https://ko-fi.com/ptkdev)
 
-![](https://img.shields.io/badge/bitcoin-35jQmZCy4nsxoMM3QPFrnZePDVhdKaHMRH-E38B29.svg) ![](https://img.shields.io/badge/ethereum-0x8b8171661bEb032828e82baBb0B5B98Ba8fBEBFc-4E8EE9.svg)
+![](https://img.shields.io/badge/bitcoin-35jQmZCy4nsxoMM3QPFrnZePDVhdKaHMRH-E38B29.svg?logo=bitcoin) ![](https://img.shields.io/badge/ethereum-0x8b8171661bEb032828e82baBb0B5B98Ba8fBEBFc-4E8EE9.svg?logo=ethereum)
 
 ## 📎 Menu
 - 💡 [Features](#-features)
@@ -19,11 +19,10 @@
 - 🚀 [How to use](#-installation)
 - 🔨 [Developer mode](#-developer-mode)
 - 📚 [Documentation](#-documentation)
-- ❤️ [Contributing](#-contributing)
+- 👨‍💻 [Contributing](#-contributing)
 - 🐛 [Known Bugs](https://github.com/ptkdev/vscode-theme-dark-blood/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 - 🍻 Community:
   - <img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/social_discord.png" height="18px"> [Discord](http://discord.ptkdev.io) ([🇬🇧 English Channel](https://discord.gg/4zW4KNz) | [🇮🇹 Italian Channel](https://discord.gg/4vggHge) | [🇵🇱 Polish Channel](https://discord.gg/exnyeD4))
-  - <img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/master/.github/assets/social_twitter.png" height="18px"> [Twitter](http://twitter.ptkdev.io)
 
 ## 💡 Features
 * [✔️] Easy to use
@@ -115,8 +114,8 @@ Thank you to all our backers! 🙏 Become a backer on [patreon](https://www.patr
 
 [![](https://api.ptkdev.io/backers/backer1.png)](https://api.ptkdev.io/backers/backer1.html) [![](https://api.ptkdev.io/backers/backer2.png)](https://api.ptkdev.io/backers/backer2.html) [![](https://api.ptkdev.io/backers/backer3.png)](https://api.ptkdev.io/backers/backer3.html) [![](https://api.ptkdev.io/backers/backer4.png)](https://api.ptkdev.io/backers/backer4.html) [![](https://api.ptkdev.io/backers/backer5.png)](https://api.ptkdev.io/backers/backer5.html) [![](https://api.ptkdev.io/backers/backer6.png)](https://api.ptkdev.io/backers/backer6.html) [![](https://api.ptkdev.io/backers/backer7.png)](https://api.ptkdev.io/backers/backer7.html) [![](https://api.ptkdev.io/backers/backer8.png)](https://api.ptkdev.io/backers/backer8.html) [![](https://api.ptkdev.io/backers/backer9.png)](https://api.ptkdev.io/backers/backer9.html) [![](https://api.ptkdev.io/backers/backer10.png)](https://api.ptkdev.io/backers/backer10.html) [![](https://api.ptkdev.io/backers/backer11.png)](https://api.ptkdev.io/backers/backer11.html) [![](https://api.ptkdev.io/backers/backer12.png)](https://api.ptkdev.io/backers/backer12.html) [![](https://api.ptkdev.io/backers/backer13.png)](https://api.ptkdev.io/backers/backer13.html) [![](https://api.ptkdev.io/backers/backer14.png)](https://api.ptkdev.io/backers/backer14.html) [![](https://api.ptkdev.io/backers/backer15.png)](https://api.ptkdev.io/backers/backer15.html)
 
-## ❤️ Contributing
-I 💟 contributions! I will happily accept your pull request! Translations, grammatical corrections (GrammarNazi you are welcome! Yes my English is bad, sorry), etc... Do not be afraid, if the code is not perfect we will work together 👯 and remember to insert your name in `.all-contributorsrc` and `package.json` file.
+## ❤👨‍💻 Contributing
+I ❤️ contributions! I will happily accept your pull request! Translations, grammatical corrections (GrammarNazi you are welcome! Yes my English is bad, sorry), etc... Do not be afraid, if the code is not perfect we will work together 👯 and remember to insert your name in `.all-contributorsrc` and `package.json` file.
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 

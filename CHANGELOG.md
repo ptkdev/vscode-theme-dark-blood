@@ -1,8 +1,11 @@
-# v2.0.7 (March 28, 2020)
-* Fix: security issue
+# v2.0.8 (TBD)
+* Update: README.md
 
 [![](https://img.shields.io/badge/donate-paypal-005EA6.svg?logo=paypal)](https://www.paypal.me/ptkdev) [![](https://img.shields.io/badge/donate-patreon-F87668.svg?logo=patreon)](https://www.patreon.com/ptkdev) [![](https://img.shields.io/badge/donate-sponsors-ea4aaa.svg?logo=github)](https://github.com/sponsors/ptkdev/)  [![](https://img.shields.io/badge/donate-ko--fi-29abe0.svg?logo=ko-fi)](https://ko-fi.com/ptkdev)
 
+
+# v2.0.7 (March 28, 2020)
+* Fix: security issue
 
 # v2.0.6 (February 10, 2020)
 * Fix: jsdoc/comments better opacity

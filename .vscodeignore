@@ -1,0 +1,9 @@
+.*
+.*/
+!/themes/*.json
+!/syntaxes/*.json
+!dark-blood.png
+!*.d.ts
+!*.md
+!*.json
+!.vsixmanifest

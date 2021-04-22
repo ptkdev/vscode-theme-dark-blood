@@ -3,7 +3,13 @@
 	"injectionSelector": [
 		"L:comment.line.double-slash",
 		"L:comment.block",
-		"L:comment.block.documentation"
+		"L:comment.block.documentation",
+		"L:comment.line.double-slash.ts",
+		"L:comment.block.ts",
+		"L:comment.block.documentation.ts",
+		"L:comment.line.double-slash.js",
+		"L:comment.block.js",
+		"L:comment.block.documentation.js"
 	],
 	"patterns": [
 		{
@@ -51,7 +57,7 @@
 			"name": "comment.jsdoc.key.var.type"
 		},
 		"comment-jsdoc-key-var-name": {
-			"match": "(?<=})\\s*[a-zA-Z0-9-.$_]*\\s*(?=-)",
+			"match": "(?<=})\\s(.*)(?=-\\s)",
 			"name": "comment.jsdoc.key.var.name"
 		},
 		"comment-jsdoc-key-var-description": {

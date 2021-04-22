@@ -1,6 +1,8 @@
 {
-	"projectName": "vscode-theme-dark-blood",
+	"projectName": "ptkdev/vscode-theme-dark-blood",
 	"projectOwner": "ptkdev",
+	"repoType": "github",
+	"repoHost": "https://github.com",
 	"files": [
 		"README.md"
 	],
@@ -13,9 +15,13 @@
 			"avatar_url": "https://avatars1.githubusercontent.com/u/442844?v=4",
 			"profile": "https://ptk.dev",
 			"contributions": [
-				"code", "design"
+				"code",
+				"translation",
+				"doc",
+				"bug"
 			]
 		}
 	],
-	"contributorsPerLine": 6
+	"contributorsPerLine": 6,
+	"commitConvention": "none"
 }

@@ -20,7 +20,7 @@
 		"button.foreground": "#ffffff",
 		"debugToolBar.background": "#090909",
 		"diffEditor.insertedTextBackground": "#89DDFF20",
-		"diffEditor.removedTextBackground": "#ff9cac20",
+		"diffEditor.removedTextBackground": "#c488a320",
 		"dropdown.background": "#090909",
 		"dropdown.border": "#FFFFFF10",
 		"editor.background": "#090909",
@@ -36,7 +36,7 @@
 		"editor.rangeHighlightBackground": "#FFFFFF0d",
 		"editor.selectionBackground": "#61616150",
 		"editor.selectionHighlightBackground": "#FFCC0020",
-		"editor.wordHighlightBackground": "#ff9cac30",
+		"editor.wordHighlightBackground": "#c488a330",
 		"editor.wordHighlightStrongBackground": "#C3E88D30",
 		"editorBracketMatch.background": "#090909",
 		"editorBracketMatch.border": "#FFCC0050",
@@ -429,7 +429,7 @@
 				"meta.arrow meta.parameters meta.type.annotation entity.name.type"
 			],
 			"settings": {
-				"foreground": "#ff9cac"
+				"foreground": "#c488a3"
 			}
 		},
 		{
@@ -669,7 +669,7 @@
 			"name": "Markdown - Blockquote Punctuation",
 			"scope": ["punctuation.definition.quote"],
 			"settings": {
-				"foreground": "#ff9cac"
+				"foreground": "#c488a3"
 			}
 		},
 		{
@@ -709,7 +709,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#ff9cac"
+				"foreground": "#c488a3"
 			}
 		},
 		{
@@ -819,7 +819,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#ff9cac"
+				"foreground": "#c488a3"
 			}
 		},
 		{
@@ -1044,7 +1044,7 @@
 				"markup.list.unnumbered.markdown"
 			],
 			"settings": {
-				"foreground": "#ff9cac"
+				"foreground": "#c488a3"
 			}
 		},
 		{

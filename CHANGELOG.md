@@ -1,4 +1,4 @@
-# v3.0.0 (April 22, 2021)
+# v3.0.1 (April 23, 2021)
 
 -   Feature: support .svelte
 -   Feature: support .vue

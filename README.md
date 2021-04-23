@@ -4,7 +4,7 @@
 
 <!-- all-shields/header-badges:START -->
 
-[![v3.0.0](https://img.shields.io/badge/version-v3.0.0-lightgray.svg?style=flat&logo=)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/main/CHANGELOG.md) [![](https://img.shields.io/npm/v/@ptkdev/vscode-theme-dark-blood?color=CC3534&logo=npm)](https://www.npmjs.com/package/@ptkdev/vscode-theme-dark-blood) [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat&logo=license)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/main/LICENSE.md) [![VSCode](https://img.shields.io/badge/powered%20by-vscode-0066B8.svg?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) [![Discord Server](https://discordapp.com/api/guilds/383373985666301975/embed.png)](https://discord.ptkdev.io)
+[![v3.0.1](https://img.shields.io/badge/version-v3.0.1-lightgray.svg?style=flat&logo=)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/main/CHANGELOG.md) [![](https://img.shields.io/npm/v/@ptkdev/vscode-theme-dark-blood?color=CC3534&logo=npm)](https://www.npmjs.com/package/@ptkdev/vscode-theme-dark-blood) [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat&logo=license)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/main/LICENSE.md) [![VSCode](https://img.shields.io/badge/powered%20by-vscode-0066B8.svg?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) [![Discord Server](https://discordapp.com/api/guilds/383373985666301975/embed.png)](https://discord.ptkdev.io)
 
 <!-- all-shields/header-badges:END -->
 
@@ -33,7 +33,7 @@ VSCode theme for the night work. Inspired by base16-dark
 -   🐛 [Known Bugs](https://github.com/ptkdev/vscode-theme-dark-blood/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 -   🍻 Community:
     -   <img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/social_telegram.png" height="18px"> Telegram ([🇬🇧 English](http://t.me/ptkdev_support) | [🇮🇹 Italian](http://t.me/ptkdev_support_italian))
-    -   <img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/social_discord.png" height="18px"> [Discord](http://discord.ptkdev.io) ([🇬🇧 English](https://discord.gg/jqUSGPKdmA) | [🇮🇹 Italian](https://discord.gg/SJFcbvG6RU) | [🇵🇱 Polish](https://discord.gg/25vg4VFhb7))
+    -   <img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/social_discord.png" height="18px"> [Discord](https://discord.ptkdev.io) ([🇬🇧 English](https://discord.gg/4zW4KNz) | [🇮🇹 Italian](https://discord.gg/4vggHge) | [🇵🇱 Polish](https://discord.gg/exnyeD4))
     -   <img src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/social_twitter.png" height="18px"> [Twitter](http://twitter.com/ptkdevio)
 
 ## 💡 Features
@@ -53,6 +53,7 @@ VSCode theme for the night work. Inspired by base16-dark
 		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/notype-1.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/notype-1.png"></a></td>
 		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/notype-2.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/notype-2.png"></a></td>
 		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/notype-3.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/notype-3.png"></a></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/palette-notype.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/palette-notype.png"></a></td>
 	</tr>
 </table>
 
@@ -62,7 +63,7 @@ VSCode theme for the night work. Inspired by base16-dark
 	<tr>
 		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-a-1.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-a-1.png"></a></td>
 		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-a-2.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-a-2.png"></a></td>
-		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-a-3.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-a-3.png"></a></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-a-3.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-a-3.png"></a></td><td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/palette-a.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/palette-a.png"></a></td>
 	</tr>
 </table>
 
@@ -73,6 +74,7 @@ VSCode theme for the night work. Inspired by base16-dark
 		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-b-1.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-b-1.png"></a></td>
 		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-b-2.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-b-2.png"></a></td>
 		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-b-3.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-b-3.png"></a></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/palette-b.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/palette-b.png"></a></td>
 	</tr>
 </table>
 
@@ -83,6 +85,7 @@ VSCode theme for the night work. Inspired by base16-dark
 		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-ab-1.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-ab-1.png"></a></td>
 		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-ab-2.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-ab-2.png"></a></td>
 		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-ab-3.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-ab-3.png"></a></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/palette-ab.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/palette-ab.png"></a></td>
 	</tr>
 </table>
 
@@ -93,6 +96,7 @@ VSCode theme for the night work. Inspired by base16-dark
 		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-zero-1.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-zero-1.png"></a></td>
 		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-zero-2.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-zero-2.png"></a></td>
 		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-zero-3.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/type-zero-3.png"></a></td>
+		<td width="30%"><a href="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/palette-zero.png"><img width="100%" src="https://raw.githubusercontent.com/ptkdev/vscode-theme-dark-blood/main/.github/assets/palette-zero.png"></a></td>
 	</tr>
 </table>
 

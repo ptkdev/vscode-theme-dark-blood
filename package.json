@@ -2,7 +2,7 @@
 	"name": "@ptkdev/vscode-theme-dark-blood",
 	"displayName": "Dark Blood Theme",
 	"description": "VSCode theme for the night work. Inspired by base16-dark",
-	"version": "3.0.1",
+	"version": "3.1.0",
 	"publishConfig": {
 		"access": "public"
 	},
@@ -123,12 +123,12 @@
 		"pkg-upgrade": "npx npm-check-updates -u && npm install && husky install"
 	},
 	"devDependencies": {
-		"@ptkdev/all-shields-cli": "^2.0.1",
+		"@ptkdev/all-shields-cli": "^2.0.2",
 		"all-contributors-cli": "^6.20.0",
 		"husky": "^6.0.0",
-		"json": "^10.0.0",
+		"json": "^11.0.0",
 		"shx": "^0.3.3",
-		"vsce": "^1.87.1"
+		"vsce": "^1.92.0"
 	},
 	"keywords": [
 		"ptkdev",

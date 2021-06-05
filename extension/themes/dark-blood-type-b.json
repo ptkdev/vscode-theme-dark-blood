@@ -308,6 +308,13 @@
 			}
 		},
 		{
+			"name": "delete",
+			"scope": "keyword.operator.expression.delete",
+			"settings": {
+				"foreground": "#BA8BAF"
+			}
+		},
+		{
 			"name": "new class name",
 			"scope": [
 				"new.expr entity.name.type.module",
@@ -406,6 +413,7 @@
 			"name": "Strings, Inherited Class",
 			"scope": [
 				"string",
+				"punctuation.definition.variable.svelte",
 				"constant.other.symbol",
 				"entity.other.inherited-class"
 			],

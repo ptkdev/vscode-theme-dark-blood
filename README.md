@@ -4,7 +4,7 @@
 
 <!-- all-shields/header-badges:START -->
 
-[![v3.0.1](https://img.shields.io/badge/version-v3.0.1-lightgray.svg?style=flat&logo=)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/main/CHANGELOG.md) [![](https://img.shields.io/npm/v/@ptkdev/vscode-theme-dark-blood?color=CC3534&logo=npm)](https://www.npmjs.com/package/@ptkdev/vscode-theme-dark-blood) [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat&logo=license)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/main/LICENSE.md) [![VSCode](https://img.shields.io/badge/powered%20by-vscode-0066B8.svg?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) [![Discord Server](https://discordapp.com/api/guilds/383373985666301975/embed.png)](https://discord.ptkdev.io)
+[![v3.1.0](https://img.shields.io/badge/version-v3.1.0-lightgray.svg?style=flat&logo=)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/main/CHANGELOG.md) [![](https://img.shields.io/npm/v/@ptkdev/vscode-theme-dark-blood?color=CC3534&logo=npm)](https://www.npmjs.com/package/@ptkdev/vscode-theme-dark-blood) [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat&logo=license)](https://github.com/ptkdev/vscode-theme-dark-blood/blob/main/LICENSE.md) [![VSCode](https://img.shields.io/badge/powered%20by-vscode-0066B8.svg?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) [![Discord Server](https://discordapp.com/api/guilds/383373985666301975/embed.png)](https://discord.ptkdev.io)
 
 <!-- all-shields/header-badges:END -->
 
